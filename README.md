@@ -10,8 +10,8 @@ The system allows the user to:
 To run the Employee Management System , follow these steps:
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/Vikas4975/Employee_Management_System.git
+   ``(https://github.com/appuhs/OnlineLearningPlatform/tree/main)
+
 
 The project uses JDBC to connect to a database.
 Create a database (e.g., employee_db) and a table with the following structure:
